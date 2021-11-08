@@ -1,0 +1,52 @@
+.fond
+{
+    background-position:center;
+    background-size: cover;
+background-image: url(https://wallpapercave.com/wp/wp2278329.jpg);
+}
+.titre{
+font-size: 40px;
+}
+.video{
+    width: 398px;
+    height: 280px;
+    padding:50px;
+    box-shadow: 0px 15px 10px -5px #777;
+}
+.bandeau ul{
+    float:left;
+    width:10%;
+    height:745px;
+    background-color:rgb(0, 67, 109);
+        }
+.ecriture{
+    color: red;
+    font-size: 15px;
+    margin: 15px;
+    float:inline-start;
+}
+.img{
+   font-size: 10%;
+   background-color: black;
+}
+.images
+{
+    width:50%;
+    float: left;
+}
+.fondPSG{
+    background-color: black;
+}
+.ecrit{
+    font-size: 80px;
+    color:red;
+    
+}
+.tab{
+    border: 2px solid rgb(250, 2, 2);
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    border-collapse:collapse;
+    color: whitesmoke;
+}
